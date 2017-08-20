@@ -8,8 +8,23 @@ $git push
 bien sur tu dois etre dans le dossier que tu as initialise au prealable, ou un sous dossier de celui-ci. Les '$' en debut de ligne correspondent a une commande en tant qu utilisateur, tu ne doit pas les copier dans le terminal.
 
 
-Voila, voila
+==================================================
+Creer un dossier de partage sur github
+==================================================
+se rendre sur ca page github et cree un projet, recopier dans le terminal les commades afficher suite a cette creation de projet
 
-bisous, je t aime fort :*
+==================================================
+Revenir a un commit (une sauvegarde) anterieure
+==================================================
+$git log --oneline
+$git checkout <id> <fichier.c>
 
-tu es la ma femme ? oui 
+==================================================
+pour toutes connaissances suplementaire, la videosuivantes explique beaucoup de choses interessantes:
+https://youtube.com/watch?v=V6Zo68uQPqE
+==================================================
+Pour apprendre a utiliser vim, l editeru de texte des programmeurs unix, tapper la commande suivante dans le terminal :
+$vimtutor
+==================================================
+Voia voila,
+bisous, je t aime fort <3 :*
