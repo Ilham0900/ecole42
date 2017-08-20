@@ -20,6 +20,8 @@ $git log --oneline
 $git checkout <id> <fichier.c>
 
 ==================================================
+Tu peux aussi creer des sous dossier qui seront de ja initialiser si le dossier parent l est, de sorte, tu n auras plus qu a publier comme presenter au debut de ce fichier
+==================================================
 pour toutes connaissances suplementaire, la videosuivantes explique beaucoup de choses interessantes:
 https://youtube.com/watch?v=V6Zo68uQPqE
 ==================================================
