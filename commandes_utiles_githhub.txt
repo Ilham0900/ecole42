@@ -1,0 +1,15 @@
+=========================
+Pusher/publier un fichier
+=========================
+$git add <fichier.c>
+$git commit -m "Message en rapport avec la ou les modifications"
+$git push
+
+bien sur tu dois etre dans le dossier que tu as initialise au prealable, ou un sous dossier de celui-ci. Les '$' en debut de ligne correspondent a une commande en tant qu utilisateur, tu ne doit pas les copier dans le terminal.
+
+
+Voila, voila
+
+bisous, je t aime fort :*
+
+tu es la ma femme ? oui 
